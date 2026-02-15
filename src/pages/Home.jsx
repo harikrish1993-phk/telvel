@@ -30,7 +30,7 @@ const WHY = [
 ];
 
 const TESTIMONIALS = [
-  { quote: 'TELVEL helped us hire 5 senior developers in under 3 weeks. Their screening quality is exceptional.', name: 'CTO, FinTech Startup', loc: 'Berlin' },
+  { quote: 'TELVEL helped us hire 5 senior developers in under 3 weeks. Their screening quality is exceptional.', name: 'CTO, FinTech Startup', loc: 'Belgium' },
   { quote: 'The team understood our requirements perfectly and provided candidates who were interview-ready.', name: 'Head of Engineering', loc: 'Amsterdam' },
 ];
 
