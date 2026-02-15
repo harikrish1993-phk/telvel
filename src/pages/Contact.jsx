@@ -10,7 +10,7 @@ const INFO = [
   { icon: '📱', title: 'Phone', content: '+91 98765 43210', link: 'tel:+919876543210' },
   { icon: '💬', title: 'WhatsApp', content: 'Chat with us', link: 'https://wa.me/919876543210', external: true },
   { icon: '📍', title: 'Location', content: 'India — Serving Europe' },
-  { icon: '🕒', title: 'Hours', content: 'Mon–Fri 9 AM – 6 PM IST' },
+  { icon: '🕒', title: 'Hours', content: 'Mon–Fri 12 PM – 8 PM IST' },
 ];
 
 function Field({ label, name, type = 'text', value, onChange, error, required }) {

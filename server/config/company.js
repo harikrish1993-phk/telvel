@@ -24,7 +24,7 @@ const contact = {
     line1: 'India',
     display: 'India — Serving European Clients',
   },
-  hours: 'Mon–Fri 9 AM – 6 PM IST',
+  hours: 'Mon–Fri 12 PM – 8 PM IST',
 };
 
 const social = {
