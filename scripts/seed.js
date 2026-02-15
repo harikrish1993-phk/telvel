@@ -11,7 +11,7 @@ const jobs = [
     slug: 'senior-frontend-developer',
     description: "We are looking for a Senior Frontend Developer with strong React experience to join our client's team in Berlin. You will build modern, responsive web applications and mentor junior developers.",
     skills: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS', 'REST APIs'],
-    location: 'Berlin, Germany',
+    location: 'Brussles, Belgium',
     type: 'full-time',
     experience: '5+ years',
     status: 'active',
