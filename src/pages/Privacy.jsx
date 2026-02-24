@@ -36,7 +36,7 @@ export default function Privacy() {
             </div>
             <div>
               <h2 className="text-xl font-display font-bold text-navy-900 mb-3">6. GDPR Compliance</h2>
-              <p>For European clients and candidates, we comply with the General Data Protection Regulation (GDPR). You have the right to access, correct, delete, or port your personal data. You may withdraw consent at any time by contacting us at <a href="mailto:info@telvel.com" className="text-accent hover:underline">info@telvel.com</a>.</p>
+              <p>For European clients and candidates, we comply with the General Data Protection Regulation (GDPR). You have the right to access, correct, delete, or port your personal data. You may withdraw consent at any time by contacting us at <a href="mailto:info@telvelit.com" className="text-accent hover:underline">info@telvelit.com</a>.</p>
             </div>
             <div>
               <h2 className="text-xl font-display font-bold text-navy-900 mb-3">7. Security</h2>
@@ -44,7 +44,7 @@ export default function Privacy() {
             </div>
             <div>
               <h2 className="text-xl font-display font-bold text-navy-900 mb-3">8. Contact</h2>
-              <p>For any privacy-related inquiries or to exercise your rights, contact us at <a href="mailto:info@telvel.com" className="text-accent hover:underline">info@telvel.com</a>.</p>
+              <p>For any privacy-related inquiries or to exercise your rights, contact us at <a href="mailto:info@telvelit.com" className="text-accent hover:underline">info@telvelit.com</a>.</p>
             </div>
           </motion.div>
         </div>

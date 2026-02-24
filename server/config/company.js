@@ -14,15 +14,15 @@ const company = {
 
 const contact = {
   email: {
-    info: process.env.CONTACT_EMAIL || 'info@telvel.com',
-    hr: process.env.ADMIN_EMAIL || 'hr@telvel.com',
-    support: process.env.SUPPORT_EMAIL || 'support@telvel.com',
+    info: process.env.CONTACT_EMAIL || 'info@telvelit.com',
+    hr: process.env.ADMIN_EMAIL || 'hr@telvelit.com',
+    support: process.env.SUPPORT_EMAIL || 'support@telvelit.com',
   },
   phone: process.env.CONTACT_PHONE || '+91 98765 43210',
   whatsapp: process.env.WHATSAPP_NUMBER || '+919876543210',
   address: {
     line1: 'India',
-    display: 'India — Serving European Clients',
+    display: 'Kukatpally,KPHB Colony,Hyderabad,Telangana,Indiaan Clients',
   },
   hours: 'Mon–Fri 12 PM – 8 PM IST',
 };

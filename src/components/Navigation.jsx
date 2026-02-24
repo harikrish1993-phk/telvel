@@ -32,7 +32,7 @@ export default function Navigation() {
         <div className="container flex justify-between items-center">
           <div className="flex gap-6">
             <span>📞 +91 98765 43210</span>
-            <span>📧 info@telvel.com</span>
+            <span>📧 info@telvelit.com</span>
           </div>
           <span className="text-navy-400">🌍 Serving Europe · 10+ Years Experience</span>
         </div>

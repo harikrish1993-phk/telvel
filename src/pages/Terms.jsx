@@ -40,7 +40,7 @@ export default function Terms() {
             </div>
             <div>
               <h2 className="text-xl font-display font-bold text-navy-900 mb-3">7. Contact</h2>
-              <p>For questions about these terms, contact us at <a href="mailto:info@telvel.com" className="text-accent hover:underline">info@telvel.com</a>.</p>
+              <p>For questions about these terms, contact us at <a href="mailto:info@telvelit.com" className="text-accent hover:underline">info@telvelit.com</a>.</p>
             </div>
           </motion.div>
         </div>

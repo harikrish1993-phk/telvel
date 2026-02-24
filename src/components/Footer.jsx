@@ -48,9 +48,9 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-display font-semibold mb-4 text-sm">Contact</h4>
             <ul className="space-y-3 text-sm">
-              <li className="flex items-start gap-2"><span>✉️</span><a href="mailto:info@telvel.com" className="hover:text-white">info@telvel.com</a></li>
+              <li className="flex items-start gap-2"><span>✉️</span><a href="mailto:info@telvelit.com" className="hover:text-white">info@telvelit.com</a></li>
               <li className="flex items-start gap-2"><span>📞</span><a href="tel:+919876543210" className="hover:text-white">+91 98765 43210</a></li>
-              <li className="flex items-start gap-2"><span>📍</span><span>India — Serving Europe</span></li>
+              <li className="flex items-start gap-2"><span>📍</span><span>Kukatpally,KPHB Colony,Hyderabad,Telangana,India</span></li>
             </ul>
           </div>
         </div>

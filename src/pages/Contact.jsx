@@ -6,10 +6,10 @@ const fade = (d = 0) => ({ initial: { opacity: 0, y: 20 }, animate: { opacity: 1
 const INIT = { fullName: '', email: '', phone: '', companyName: '', subject: '', message: '', type: 'hire' };
 
 const INFO = [
-  { icon: '📧', title: 'Email', content: 'info@telvel.com', link: 'mailto:info@telvel.com' },
+  { icon: '📧', title: 'Email', content: 'info@telvelit.com', link: 'mailto:info@telvelit.com' },
   { icon: '📱', title: 'Phone', content: '+91 98765 43210', link: 'tel:+919876543210' },
   { icon: '💬', title: 'WhatsApp', content: 'Chat with us', link: 'https://wa.me/919876543210', external: true },
-  { icon: '📍', title: 'Location', content: 'India — Serving Europe' },
+  { icon: '📍', title: 'Location', content: 'Kukatpally,KPHB Colony,Hyderabad,Telangana,India' },
   { icon: '🕒', title: 'Hours', content: 'Mon–Fri 12 PM – 8 PM IST' },
 ];
 
